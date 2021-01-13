@@ -50,3 +50,10 @@ ConvertTo-InfluxLineString   | Convert metrics to the InfluxLine protocol format
 PSInfluxLineConverter Copyright (C) 2020 Robin Hermann
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it under certain conditions.
+
+
+
+## Repo-Info
+This repository is originally from @markwragg (https://github.com/markwragg/PowerShell-Influx). -> Thanks for that!!
+First I forked the repo and made it more lightweight. 
+Later I noticed I will worked on the originally repo, so I migrate this repo to a new GitHub repository to take advantages of forking features.
