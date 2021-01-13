@@ -2,9 +2,6 @@
 This is a lightweight PowerShell module to convert PowerShell outputs for Telegraf agent to the InfluxLine-Protocol. 
 Then the Telegraf agents reads the converted outputs and send this to an InfluxDB.
 
-_This is a fork of the PowerShell module [PowerShell-Influx](https://github.com/markwragg/PowerShell-Influx) from markwragg._
-_All unused code are removed to minimize the overhead and optimize the performance._
-
 
 # Installation
 Import the module by running:
@@ -54,6 +51,6 @@ This is free software, and you are welcome to redistribute it under certain cond
 
 
 ## Repo-Info
-This repository is originally from @markwragg (https://github.com/markwragg/PowerShell-Influx). -> Thanks for that!!
-First I forked the repo and made it more lightweight. 
+This repository is originally from @markwragg (https://github.com/markwragg/PowerShell-Influx). -> **Thanks for that!!**
+First I forked the repo and made it more lightweight. (All unused code are removed to minimize the overhead and optimize the performance.)
 Later I noticed I will worked on the originally repo, so I migrate this repo to a new GitHub repository to take advantages of forking features.
